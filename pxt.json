@@ -4,7 +4,8 @@
         "CODE_OF_CONDUCT.md",
         "README.md",
         "SECURITY.md",
-        "main.ts"
+        "main.ts",
+        "firefly.ts"
     ],
     "dependencies": {
         "core": "*"
