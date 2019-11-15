@@ -8,7 +8,8 @@
         "firefly.ts"
     ],
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "radio": "*"
     },
     "preferredEditor": "tsprj"
 }
