@@ -1,0 +1,13 @@
+{
+    "name": "pxt-scarf",
+    "files": [
+        "CODE_OF_CONDUCT.md",
+        "README.md",
+        "SECURITY.md",
+        "main.ts"
+    ],
+    "dependencies": {
+        "core": "*"
+    },
+    "preferredEditor": "tsprj"
+}
