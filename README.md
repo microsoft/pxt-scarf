@@ -2,6 +2,10 @@
 
 A scraf powered by a micro:bit and MakeCode.
 
+## TODO
+
+- [ ] define experiences
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
