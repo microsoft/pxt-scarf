@@ -5,11 +5,13 @@
         "README.md",
         "SECURITY.md",
         "main.ts",
-        "firefly.ts"
+        "firefly.ts",
+        "beacon.ts"
     ],
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.12"
     },
     "preferredEditor": "tsprj"
 }
